@@ -4,4 +4,4 @@ I study in Netology
 
 13.09.2023
 
-Я изучаю Python
+Я изучаю Python на Нетологии.
